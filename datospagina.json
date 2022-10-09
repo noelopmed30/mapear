@@ -1,5 +1,8 @@
 {
-    "dosis":"100mg",
-    "contraindicaciones":"no pasarse de la dosis",
-    "Para que sirve":""
+    "medicamentos":[
+        {"id":"0","name":"","description":""},
+        {"id":"0","name":"","description":""},
+        {"id":"0","name":"","description":""},
+        {"id":"0","name":"","description":""},
+        {"id":"0","name":"","description":""},
 }
